@@ -1,5 +1,5 @@
 {
-    "name": "markbratanov/register_override-extension",
+    "name": "sennitstorage/register_override-extension",
     "type": "streams-addon",
     "autoload": {
         "psr-4": {
